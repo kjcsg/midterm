@@ -1,0 +1,14 @@
+Apple,3
+Pear,2
+Strawberry,10
+Blueberry,6
+Cantaloupe,2
+Egg,3
+Mushroom,3
+Squash,1
+Eggplant,1
+Zucchini,2
+Tomato,10
+Onion,6
+Chile,5
+Lime,1.5
